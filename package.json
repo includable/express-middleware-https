@@ -1,0 +1,23 @@
+{
+  "name": "@includable/middleware-https",
+  "version": "1.0.0",
+  "description": "Redirect to HTTPS middleware.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/includable/middleware-https.git"
+  },
+  "keywords": [
+    "middleware",
+    "express",
+    "https",
+    "ssl",
+    "redirect"
+  ],
+  "author": "Thomas Schoffelen <thomas@includable.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/includable/middleware-https/issues"
+  },
+  "homepage": "https://github.com/includable/middleware-https#readme"
+}
